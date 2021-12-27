@@ -1,0 +1,10 @@
+{
+    "main":{
+        "name": "Chemicology v0.1a1",
+        "copyright_n": "Copyright (c) 2021 Muhammad Moazzam",
+        "discription": "Chemical Analysis Calculator, enter 'p' to show list, 'q' to quit."
+    },
+    "operations":{
+        "e": "Empirical Formula"
+    }
+}
