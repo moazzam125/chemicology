@@ -1,0 +1,4 @@
+*_dev/
+test.*
+__pycache__/*
+*.pyc
