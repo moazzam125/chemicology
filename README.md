@@ -39,6 +39,6 @@ The following mailing list are used for support:
 * Email     : info@innovix.me
 
 -------------
-<a href="https://innovix.me/chemicology" title="Website"><img src="https://www.freeiconspng.com/uploads/website-icon-8.png" align="left" height="32" width="32" alt="Website .png" /></a>
+<a href="https://moazzam125.github.io/chemicology" title="Website"><img src="https://www.freeiconspng.com/uploads/website-icon-8.png" align="left" height="32" width="32" alt="Website .png" /></a>
 <a href="https://chemicology.readthedocs.org/" title="Docs"><img src="https://cdn.onlinewebfonts.com/svg/img_162799.png" align="left" height="30" width="30" /></a>
 <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" title="Licence"><img src="https://www.gnu.org/graphics/gplv3-127x51.png"  align="right" height="32" width="64" /></a>
