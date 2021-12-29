@@ -35,7 +35,7 @@ Mailing Sites
 
 The following mailing list are used for support:
 
-* Issues : https://github.com/innovix/chemicology/issues/
+* Issues : https://github.com/moazzam125/chemicology/issues
 * Email     : info@innovix.me
 
 -------------
