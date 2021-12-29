@@ -1,4 +1,4 @@
-# Chemicology ![release](https://img.shields.io/github/v/release/moazzam125/chemicology?include_prereleases) ![Downloads](https://img.shields.io/github/downloads/moazzam125/chemicology/total)
+# Chemicology ![release](https://img.shields.io/github/v/release/moazzam125/chemicology?include_prereleases)
 
 Chemical Analysis Calculator, to solve problems efficiently by displaying whole solution.
 
