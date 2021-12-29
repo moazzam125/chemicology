@@ -8,7 +8,7 @@ import json, os.path
 
 # Metadata
 
-with open(os.path.dirname(__file__) + '/data/metadata.json', 'r', encoding='utf-8') as metadata_file:
+with open(os.path.dirname(__file__) + '\data\metadata.json', 'r', encoding='utf-8') as metadata_file:
     metadata_content = json.load(metadata_file)
 
 main_dict = metadata_content["main"]
@@ -29,7 +29,7 @@ std_dash = "------------------"
 
 # Elements data
 
-with open(os.path.dirname(__file__) + "/data/periodic_table.json", 'r', encoding='utf-8') as pt_file:
+with open(os.path.dirname(__file__) + "\data\periodic_table.json", 'r', encoding='utf-8') as pt_file:
     pt_content = json.load(pt_file)
 
 def element(name, info_type):
