@@ -1,8 +1,8 @@
-# Chemicology
+# Chemicology ![release](https://img.shields.io/github/v/release/moazzam125/chemicology?include_prereleases) ![Downloads](https://img.shields.io/github/downloads/moazzam125/chemicology/total)
 
 Chemical Analysis Calculator, to solve problems efficiently by displaying whole solution.
 
-Go to [releases]() for downloading .exe, .dmg, Linux exec etc.
+Go to [releases](https://github.com/moazzam125/chemicology/releases) for downloading .exe, .dmg, Linux exec etc.
 
 elements data from [Periodic-Table-JSON](https://github.com/Bowserinator/Periodic-Table-JSON)
 
