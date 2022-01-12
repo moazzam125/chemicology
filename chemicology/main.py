@@ -33,5 +33,3 @@ while True:
 
     elif command == 'q':
         break
-    else:
-        print(error["g"])
